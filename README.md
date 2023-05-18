@@ -12,5 +12,6 @@ U need node v18.15.0
 2. cd to the repository
 3. type ``node install``
 4. enter in ur token in TOKEN
-5. and read my marks to understand how to change the amount of pings and the messages
+5. and read my notes to understand how to change the amount of pings and the messages
+
 __REMEMBER__ if you get banned i'ts not my fault
