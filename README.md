@@ -14,4 +14,4 @@ U need node v18.15.0
 4. enter in your token in TOKEN
 5. and read my notes to understand how to change the amount of pings and the messages
 
-__REMEMBER__ if you get banned i'ts not my fault
+__REMEMBER__ if you get banned I take no responsibility
